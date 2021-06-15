@@ -1,5 +1,7 @@
 # PMA Dracula Theme (unofficial)
 
+![screenshot](https://github.com/junielton/pma-dracula-theme/blob/main/screenshot.png)
+
 - Supports phpMyAdmin 4.9 or higher
 - RTL compatibility not tested.
 
