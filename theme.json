@@ -1,0 +1,8 @@
+{
+	"name": "PMA Dracula Theme",
+	"version": "4.9",
+	"description": "Dracula theme to PMA v4.9+",
+	"author": "",
+	"url": "",
+	"supports": ["4.9"]
+}
